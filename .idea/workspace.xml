@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="791951f9-05ad-4cac-abdf-8070f2b4a9ea" name="Changes" comment="2022年7月4日15:29:46 Julio" />
+    <list default="true" id="791951f9-05ad-4cac-abdf-8070f2b4a9ea" name="Changes" comment="Julio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656916590962</updated>
       <workItem from="1656916593653" duration="1271000" />
-      <workItem from="1656917952854" duration="1841000" />
+      <workItem from="1656917952854" duration="2372000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1656917667495</created>
@@ -80,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656919795815</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2022年7月4日15:31:34 Julio">
+      <created>1656919900962</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656919900962</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Julio">
+      <created>1656920027685</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656920027685</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +116,8 @@
     <MESSAGE value="12" />
     <MESSAGE value="2022年7月4日15:26:15" />
     <MESSAGE value="2022年7月4日15:29:46 Julio" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022年7月4日15:29:46 Julio" />
+    <MESSAGE value="2022年7月4日15:31:34 Julio" />
+    <MESSAGE value="Julio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Julio" />
   </component>
 </project>
